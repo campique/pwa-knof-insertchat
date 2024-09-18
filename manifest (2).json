@@ -1,0 +1,16 @@
+{
+  "name": "Knof de Pad",
+  "short_name": "Knof de Pad",
+  "start_url": "/d5595c66-85ed-46ca-9a20-7e4988fb0618",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://fcdn.answerly.io/477718fd-e50b-4758-8fcb-7709dedf75ec/8c825ef9-d96d-49af-ba9a-951c761f104d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
