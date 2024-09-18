@@ -1,7 +1,6 @@
 const CACHE_NAME = 'my-cache-v1';
 const urlsToCache = [
-  '/',
-  '/4e573e98-e124-41bb-8874-899103ee95dd',
+  '/embed/4e573e98-e124-41bb-8874-899103ee95dd',
   'https://fcdn.answerly.io/477718fd-e50b-4758-8fcb-7709dedf75ec/8c825ef9-d96d-49af-ba9a-951c761f104d.png' // Voeg andere benodigde bestanden toe
 ];
 
